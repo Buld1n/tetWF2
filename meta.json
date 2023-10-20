@@ -1,0 +1,16 @@
+{
+    "workflow_environment":"SimStack",
+    "title": "This is test",
+    "description": "This is test",
+    "authors": [
+        "A. Buldin"
+
+    ],
+    "version": "0.0.1",
+    "logo": "SparqlQuery.png",
+    "keywords": [
+        "SimStack",
+        "WaNo",
+        "template"
+    ]
+}
